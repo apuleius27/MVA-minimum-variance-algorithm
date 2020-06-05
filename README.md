@@ -26,6 +26,7 @@ More detailed information about which libraries are necessary and other specific
 
 ## Credits ##
 
-The development of this MVA algorithm would have not been possible without the many open source information, files and works that I have found online. This is the main reason why I am 'giving back' what I have learned.
+The development of this MVA algorithm would have not been possible without the many open source information, files and works that people are willing to share.
+This is the main reason why I am 'giving back' what I have learned, and I hope this small project will help many others.
 
 For more info about the sources, have a look at the CREDIT file.
