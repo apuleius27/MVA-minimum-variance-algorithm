@@ -26,8 +26,11 @@ More detailed information about which libraries are necessary and other specific
 
 ## A little bit more about the MVA ##
 
-The MVA simply finds the average covariance of each asset versus all other assets - including its own variance - and then converts the average value for each asset to a cross-sectional distribution using normalization. This is used to proportionately weight each asset to find an initial set of weights. The final weights are derived by multiplying each initial asset weight by its inverse variance and then releveraging to sum up the weights to a total of 100%. 
-The result is that weights reflect both the asset’s own relative variance and also average covariance to the universe of assets. However, the weights are less dependent on correlation estimates (which are critical in complex minimum variance but are noisier than volatility estimates) and do a better job of distributing risk since allocations are made to all assets in the universe.
+The MVA simply finds the average covariance of each asset versus all other assets - including its own variance - and then converts the average value for each asset to a cross-sectional distribution using normalization. This is used to proportionately weight each asset to find an initial set of weights.
+The final weights are derived by multiplying each initial asset weight by its inverse variance and then releveraging to sum up the weights to a total of 100%.
+The result is that weights reflect both the asset’s own relative variance and also average covariance to the universe of assets. 
+
+However, the weights are less dependent on correlation estimates (which are critical in complex minimum variance but are noisier than volatility estimates) and do a better job of distributing risk since allocations are made to all assets in the universe.
 
 ## Credits ##
 
