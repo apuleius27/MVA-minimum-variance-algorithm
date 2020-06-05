@@ -23,3 +23,8 @@ These files are provided 'as is' and they will not work out-of-the-box, but they
 The files are written in Python and will require some libraries to function correctly.
 
 More detailed information about which libraries are necessary and other specific information can be found inside the related file.
+
+## Credits ##
+
+Me developing this MVA algorithm would have not been possible without the many sources I have found online.
+Most of the sources are open 
