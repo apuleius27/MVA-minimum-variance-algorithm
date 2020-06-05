@@ -1,1 +1,13 @@
-Me developing this MVA algorithm would have not been possible without the many 
+The development of this MVA algorithm would have not been possible without the many open source information, files and works that I have found online.
+This is the main reason why I am 'giving back' a bit of what I have learned.
+
+The sources I have used include, but are not limited to:
+  
+  https://www.quantconnect.com/tutorials/introduction-to-financial-python/modern-portfolio-theory
+  https://www.quantopian.com/posts/adaptive-asset-allocation-algorithms
+  https://cssanalytics.wordpress.com/2013/04/01/minimum-variance-algorithm-mva/
+  http://www.systematicportfolio.com/minvar
+  
+
+
+I have also used some or all of the related material that can be found inside those links and sources.
