@@ -85,7 +85,7 @@ import collections
 IMPORTANT: the parameter 'toplist' needs to be a tuple
 """
 
-def GetMinvarWeights(toplist):
+def MinimumVarianceAlgorithm(toplist):
 
     # PARAMETER
     minvarLookback = 20   # example lookback period for MVA
